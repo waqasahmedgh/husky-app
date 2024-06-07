@@ -1,0 +1,2 @@
+# husky-app
+Husky Project
